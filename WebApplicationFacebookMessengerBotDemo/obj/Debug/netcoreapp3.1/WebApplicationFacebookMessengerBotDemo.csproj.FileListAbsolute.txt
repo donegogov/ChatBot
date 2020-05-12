@@ -1,0 +1,131 @@
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.AssemblyInfoInputs.cache
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.AssemblyInfo.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.TagHelpers.input.cache
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.TagHelpers.output.cache
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.dll
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.pdb
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationFacebookMessengerBotDemo.StaticWebAssets.Manifest.cache
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationFacebookMessengerBotDemo.StaticWebAssets.xml
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorAssemblyInfo.cache
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorAssemblyInfo.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.exe
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.deps.json
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.runtimeconfig.json
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.runtimeconfig.dev.json
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.dll
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorCoreGenerate.cache
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorTargetAssemblyInfo.cache
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorTargetAssemblyInfo.cs
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.pdb
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.Views.dll
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.Views.pdb
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.Views.pdb
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.csproj.CopyComplete
+D:\visual studio\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.csprojAssemblyReference.cache
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\appsettings.production.json
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.exe
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.deps.json
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.runtimeconfig.json
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.runtimeconfig.dev.json
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.dll
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.pdb
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.Views.dll
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.Views.pdb
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.csproj.CoreCompileInputs.cache
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorAssemblyInfo.cache
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorAssemblyInfo.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.AssemblyInfoInputs.cache
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.AssemblyInfo.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.TagHelpers.input.cache
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.TagHelpers.output.cache
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorCoreGenerate.cache
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorTargetAssemblyInfo.cache
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorTargetAssemblyInfo.cs
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.Views.pdb
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.csproj.CopyComplete
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationFacebookMessengerBotDemo.StaticWebAssets.Manifest.cache
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationFacebookMessengerBotDemo.StaticWebAssets.xml
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.dll
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.pdb
+D:\visual studio pc\ChatBot\ChatBotDemo virtual shop\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.genruntimeconfig.cache
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\appsettings.production.json
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.exe
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.deps.json
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.runtimeconfig.json
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.runtimeconfig.dev.json
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.dll
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.pdb
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.Views.dll
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.Views.pdb
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.csproj.CoreCompileInputs.cache
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorAssemblyInfo.cache
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorAssemblyInfo.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.AssemblyInfoInputs.cache
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.AssemblyInfo.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.TagHelpers.input.cache
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.TagHelpers.output.cache
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorCoreGenerate.cache
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorTargetAssemblyInfo.cache
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.RazorTargetAssemblyInfo.cs
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.Views.pdb
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.csproj.CopyComplete
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationFacebookMessengerBotDemo.StaticWebAssets.Manifest.cache
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationFacebookMessengerBotDemo.StaticWebAssets.xml
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.dll
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.pdb
+D:\visual studio pc\ChatBot\ChatBotDemo eCommerce\WebApplicationFacebookMessengerBotDemo\obj\Debug\netcoreapp3.1\WebApplicationFacebookMessengerBotDemo.genruntimeconfig.cache
